@@ -61,7 +61,6 @@ func solve(left []int, right []int) int {
 	}
 
 	return sum
-
 }
 
 func main() {
@@ -71,5 +70,4 @@ func main() {
 	}
 
 	println(solve(left, right))
-
 }
